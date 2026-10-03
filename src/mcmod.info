@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "manametalspiritualautoreset",
+    "name": "ManaMetal Spiritual Auto Reset",
+    "description": "Client-only buttons to reset each spiritual power stage until the globally selected quality is reached.",
+    "version": "1.1.0",
+    "mcversion": "1.7.10",
+    "authorList": ["Local"],
+    "requiredMods": ["manametalmod"]
+  }
+]
